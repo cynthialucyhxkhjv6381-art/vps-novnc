@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://garcia-strand-examples-talented.trycloudflare.com/vnc.html
+URL       : https://injection-strategies-engineer-holds.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 09:40:14
+Created   : 2026-09-20 14:02:15
 =======================================================
