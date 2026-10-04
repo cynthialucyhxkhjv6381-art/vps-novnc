@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gold-floppy-conceptual-september.trycloudflare.com/vnc.html
+URL       : https://let-recipes-incorporated-cellular.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 22:46:25
+Created   : 2026-10-04 04:49:29
 =======================================================
