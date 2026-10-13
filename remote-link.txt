@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://staffing-considers-mouth-changed.trycloudflare.com/vnc.html
+URL       : https://guards-understanding-duck-adjacent.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 17:26:45
+Created   : 2026-10-13 23:40:28
 =======================================================
