@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://adaptation-liabilities-pray-pubs.trycloudflare.com/vnc.html
+URL       : https://karma-knowledgestorm-garden-apache.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 04:56:41
+Created   : 2026-11-02 13:14:13
 =======================================================
