@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kind-atomic-paintings-providers.trycloudflare.com/vnc.html
+URL       : https://communist-lyric-jokes-watt.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 05:45:52
+Created   : 2026-11-03 17:38:47
 =======================================================
