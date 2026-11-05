@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://successful-rosa-dig-exams.trycloudflare.com/vnc.html
+URL       : https://blake-exit-lighting-purse.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 21:07:41
+Created   : 2026-11-05 05:38:48
 =======================================================
