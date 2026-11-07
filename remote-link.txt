@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://refuse-recipe-delicious-proof.trycloudflare.com/vnc.html
+URL       : https://architect-mins-downloadable-hunter.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 20:45:08
+Created   : 2026-11-07 05:03:58
 =======================================================
